@@ -8,28 +8,32 @@
 #  Welcome to My GitHub Profile!
 
 
-## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho atualmente na/no...
+🪙 I am an Economist
 
-🧠 Estou aprendendo...
+👩‍💻 Currently working in Assurance/Audit at EY
 
-👯‍♀️ Procuro colaborar em...
+😄 Aiming for a carreer transition
 
-🤔 Procuro ajuda com...
+🧠 Data Science student since 2022
 
-💬 Me pergunte sobre...
+👯‍♀️ I am looking to collaborate on data projects
 
-📫 Como entrar em contato comigo...
+🤔 Building a portfolio
 
-😄 Pronomes...
+💬 Ask me about economics, geopolitics, business and more
 
-⚡️ Fatos engraçados...
+⚡️ Fun facts: I love Geeky stuff
 
 
 ## 🚀 About me
-I am a graduate in Economics from the Federal University of Ceará (UFC) and currently pursuing an MBA in Data Science at the University of Fortaleza (Unifor). Actively engaged in technology-focused research groups, particularly in Artificial Intelligence (A.I.), I am currently in the process of transitioning my career with the aim of becoming a respected professional in the market.
 
-As a highly motivated and ambitious professional, I am always seeking opportunities for professional growth. I am actively looking for roles where I can contribute to problem-solving using technology tools and a solid business understanding.
+## About Me
+
+I hold a degree in Economics from the prestigious Universidade Federal do Ceará (UFC) and am currently immersing myself in the dynamic field of Data Science through an MBA program at the Universidade de Fortaleza (Unifor). My academic journey has equipped me with a strong foundation in economic principles, and my ongoing studies in Data Science reflect my commitment to reach and staying at the forefront of technological advancements on Analysis tools.
+
+Driven by a passion for innovation, I actively participate in technology-focused research groups, with a special focus on Artificial Intelligence (A.I.). This involvement not only keeps me abreast of the latest industry trends but also aligns with my career transition goals. I aspire to be recognized as a seasoned professional in the ever-evolving landscape of data-driven decision-making.
+
+
 
 
 ## 🔗 Contact me
@@ -48,6 +52,7 @@ As a highly motivated and ambitious professional, I am always seeking opportunit
   <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 </div><br/>
 
 #
@@ -60,19 +65,3 @@ As a highly motivated and ambitious professional, I am always seeking opportunit
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDinizfv)](https://github.com/JDinizfv/github-readme-stats)
-## Skills
-
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostGre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
-)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-)
-![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
