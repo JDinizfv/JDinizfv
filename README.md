@@ -53,5 +53,4 @@ Driven by a passion for innovation, I actively participate in technology-focused
   <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDinizfv)](https://github.com/JDinizfv/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDinizfv)](https://github.com/JDinizfv/github-readme-stats)
+
