@@ -27,8 +27,6 @@
 
 ## 🚀 About me
 
-## About Me
-
 I hold a degree in Economics from the prestigious Universidade Federal do Ceará (UFC) and am currently immersing myself in the dynamic field of Data Science through an MBA program at the Universidade de Fortaleza (Unifor). My academic journey has equipped me with a strong foundation in economic principles, and my ongoing studies in Data Science reflect my commitment to reach and staying at the forefront of technological advancements on Analysis tools.
 
 Driven by a passion for innovation, I actively participate in technology-focused research groups, with a special focus on Artificial Intelligence (A.I.). This involvement not only keeps me abreast of the latest industry trends but also aligns with my career transition goals. I aspire to be recognized as a seasoned professional in the ever-evolving landscape of data-driven decision-making.
