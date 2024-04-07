@@ -10,7 +10,7 @@
 
 🪙 I am an Economist
 
-👩‍💻 Currently working in Assurance/Audit at EY
+👩‍💻 Currently studying
 
 😄 Aiming for a career transition
 
