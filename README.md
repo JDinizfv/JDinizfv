@@ -22,7 +22,7 @@
 
 💬 Ask me about economics, geopolitics, business and more
 
-⚡️ Fun facts: I love Geeky stuff
+⚡️ Fun facts: Data-driven passion
 
 
 ## 🚀 About me
