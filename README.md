@@ -8,11 +8,11 @@
 #  Welcome to My GitHub Profile!
 
 
-🪙 I am an Economist
+🪙 I am a Data Scientist
 
 👩‍💻 Currently studying
 
-😄 Aiming for a career transition
+😄 Future Researcher
 
 🧠 Data Science student since 2022
 
